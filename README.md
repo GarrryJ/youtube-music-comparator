@@ -1,6 +1,6 @@
 #### Library for compare .wav audiofile with audiofile from YouTube video by link. 
 
-#####* How to use?*
+##### *How to use?*
 For example:
 ```java
 Comparator comparator = new Comparator("https://www.youtube.com/watch?v=zPGf4liO-KQ");
