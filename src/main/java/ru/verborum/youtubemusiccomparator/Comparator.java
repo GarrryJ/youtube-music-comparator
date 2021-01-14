@@ -1,5 +1,4 @@
-//TMMS.wav is the wav file of YouTube video "THE MOST MYSTERIOUS SONG ON THE INTERNET - FULL VERSION FOUND!"
-//Link if u should find it - https://www.youtube.com/watch?v=zPGf4liO-KQ
+//https://www.youtube.com/watch?v=zPGf4liO-KQ
 package ru.verborum.youtubemusiccomparator;
 
 import java.io.File;
